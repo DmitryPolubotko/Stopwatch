@@ -10,13 +10,7 @@ body{
   width: 500px;
   margin: 0 auto;
   text-align: center;
-  background-color: rgb(202, 202, 202);
-}
-
-.clock {
-}
-
-.stopwath {
+  background-color: #cacaca;
 }
 
 span {
@@ -27,13 +21,12 @@ span {
   margin-top: 10px;
   font-size: 1.7em;
   text-align: center;
-  background-color: rgb(87, 97, 102);
-  color: rgb(255, 255, 255);
+  background-color: #576166;
+  color: #ffffff;
 }
 
 .stopwatch-btm {
   width: 60px;
-  height: ;
   margin: 10px 5px 10px 0;
 }
 

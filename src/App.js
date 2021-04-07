@@ -51,18 +51,3 @@ function App() {
 }
 
 export default App;
-
-
-/*<button className="start-button button-group">
-        Start
-      </button>
-      <button className="stop-button button-group">
-        Stop
-      </button>
-      <button className="reset-button button-group">
-        Reset
-      </button>
-      <button className="wait-button button-group">
-        Wait
-      </button>
-*/
